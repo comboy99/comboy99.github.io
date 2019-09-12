@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 # Research interest
 Electrical brain stimulation, brain modeling, deep learning
 
