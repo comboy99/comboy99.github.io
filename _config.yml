@@ -105,7 +105,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Daniel Kim"
@@ -114,8 +113,8 @@ author:
   location         : "South Korea"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
       url: mailto:your.name@email.com
     - label: "tuning my home"
       url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
@@ -262,7 +261,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
