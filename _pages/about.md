@@ -1,8 +1,7 @@
 ---
 permalink: /about/
+title: "About me
 ---
-
-# About me.
 
 ## Research interest
 Electrical brain stimulation, brain modeling, deep learning
