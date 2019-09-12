@@ -114,7 +114,7 @@ author:
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
-      url: mailto:your.name@email.com
+#       url: mailto:your.name@email.com
     - label: "tuning my home"
       url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
 
