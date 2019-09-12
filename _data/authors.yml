@@ -1,0 +1,12 @@
+author:
+  name             : "Daniel Kim"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "The road to hell is paved with good intentions."
+  location         : "South Korea"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:your.name@email.com
+    - label: "tuning my home"
+      url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
